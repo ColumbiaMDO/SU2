@@ -20,8 +20,10 @@ Continuous Integration:<br/>
 Code Quality:<br/>
 [![CodeFactor](https://www.codefactor.io/repository/github/su2code/su2/badge)](https://www.codefactor.io/repository/github/su2code/su2)
 
-# SU2 Introduction
+# SU2 MDA/O Introduction
 SU2 Columbia is an adaptation of SU2 Blackbird, developed specifically for large-scale Multi-disciplinary Design Analysis and Optimization (MDA/O)
+
+# SU2 Introduction
 SU2 is a suite of open-source software tools written in C++ for the numerical solution of partial differential equations (PDE) and performing PDE constrained optimization. 
 
 The primary applications are computational fluid dynamics and aerodynamic shape optimization, but has been extended to treat more general equations such as electrodynamics and chemically reacting flows. 
