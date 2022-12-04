@@ -3,7 +3,7 @@
 </p>
 
 
-# SU2 (ver. 7.4.0 "Columbia"): The Open-Source MDA/O Code
+# SU2 Columbia (ver. 2.0.0): The Open-Source MDA/O Code
 
 Computational analysis tools have revolutionized the way we design engineering systems, but most established codes are proprietary, unavailable, or prohibitively expensive for many users. The SU2 team is changing this, making multiphysics analysis and design optimization freely available as open-source software and involving everyone in its creation and development. 
 
@@ -21,7 +21,7 @@ Code Quality:<br/>
 [![CodeFactor](https://www.codefactor.io/repository/github/su2code/su2/badge)](https://www.codefactor.io/repository/github/su2code/su2)
 
 # SU2 MDA/O Introduction
-SU2 Columbia is an adaptation of SU2 Blackbird, developed specifically for large-scale Multi-disciplinary Design Analysis and Optimization (MDA/O)
+SU2 Columbia is an extension of SU2 Blackbird, developed specifically for large-scale Multi-disciplinary Design Analysis and Optimization (MDA/O)
 
 # SU2 Introduction
 SU2 is a suite of open-source software tools written in C++ for the numerical solution of partial differential equations (PDE) and performing PDE constrained optimization. 
